@@ -1,0 +1,26 @@
+C:\Users\Junqueira\Desktop\atividade marlao\ProjFutebol11\ProjFutebol11\obj\Debug\netcoreapp3.1\ProjFutebol11.csprojAssemblyReference.cache
+C:\Users\Junqueira\Desktop\atividade marlao\ProjFutebol11\ProjFutebol11\obj\Debug\netcoreapp3.1\ProjFutebol11.csproj.CoreCompileInputs.cache
+C:\Users\Junqueira\Desktop\atividade marlao\ProjFutebol11\ProjFutebol11\obj\Debug\netcoreapp3.1\ProjFutebol11.AssemblyInfoInputs.cache
+C:\Users\Junqueira\Desktop\atividade marlao\ProjFutebol11\ProjFutebol11\obj\Debug\netcoreapp3.1\ProjFutebol11.AssemblyInfo.cs
+C:\Users\Junqueira\Desktop\atividade marlao\ProjFutebol11\ProjFutebol11\bin\Debug\netcoreapp3.1\ProjFutebol11.exe
+C:\Users\Junqueira\Desktop\atividade marlao\ProjFutebol11\ProjFutebol11\bin\Debug\netcoreapp3.1\ProjFutebol11.deps.json
+C:\Users\Junqueira\Desktop\atividade marlao\ProjFutebol11\ProjFutebol11\bin\Debug\netcoreapp3.1\ProjFutebol11.runtimeconfig.json
+C:\Users\Junqueira\Desktop\atividade marlao\ProjFutebol11\ProjFutebol11\bin\Debug\netcoreapp3.1\ProjFutebol11.runtimeconfig.dev.json
+C:\Users\Junqueira\Desktop\atividade marlao\ProjFutebol11\ProjFutebol11\bin\Debug\netcoreapp3.1\ProjFutebol11.dll
+C:\Users\Junqueira\Desktop\atividade marlao\ProjFutebol11\ProjFutebol11\bin\Debug\netcoreapp3.1\ProjFutebol11.pdb
+C:\Users\Junqueira\Desktop\atividade marlao\ProjFutebol11\ProjFutebol11\obj\Debug\netcoreapp3.1\ProjFutebol11.dll
+C:\Users\Junqueira\Desktop\atividade marlao\ProjFutebol11\ProjFutebol11\obj\Debug\netcoreapp3.1\ProjFutebol11.pdb
+C:\Users\Junqueira\Desktop\atividade marlao\ProjFutebol11\ProjFutebol11\obj\Debug\netcoreapp3.1\ProjFutebol11.genruntimeconfig.cache
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-5\ProjFutebol11\bin\Debug\netcoreapp3.1\ProjFutebol11.exe
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-5\ProjFutebol11\bin\Debug\netcoreapp3.1\ProjFutebol11.deps.json
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-5\ProjFutebol11\bin\Debug\netcoreapp3.1\ProjFutebol11.runtimeconfig.json
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-5\ProjFutebol11\bin\Debug\netcoreapp3.1\ProjFutebol11.runtimeconfig.dev.json
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-5\ProjFutebol11\bin\Debug\netcoreapp3.1\ProjFutebol11.dll
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-5\ProjFutebol11\bin\Debug\netcoreapp3.1\ProjFutebol11.pdb
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-5\ProjFutebol11\obj\Debug\netcoreapp3.1\ProjFutebol11.csprojAssemblyReference.cache
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-5\ProjFutebol11\obj\Debug\netcoreapp3.1\ProjFutebol11.csproj.CoreCompileInputs.cache
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-5\ProjFutebol11\obj\Debug\netcoreapp3.1\ProjFutebol11.AssemblyInfoInputs.cache
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-5\ProjFutebol11\obj\Debug\netcoreapp3.1\ProjFutebol11.AssemblyInfo.cs
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-5\ProjFutebol11\obj\Debug\netcoreapp3.1\ProjFutebol11.dll
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-5\ProjFutebol11\obj\Debug\netcoreapp3.1\ProjFutebol11.pdb
+C:\Users\Junqueira\Desktop\atividade marlao\Atividade 1.1-5\ProjFutebol11\obj\Debug\netcoreapp3.1\ProjFutebol11.genruntimeconfig.cache
